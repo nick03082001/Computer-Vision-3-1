@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_Processing (Miss Chaipasong Vongphansy 3CS2) week 6", "Video_Processing (Miss Chaipasong Vongphansy 3CS2) week 6\Video_Processing (Miss Chaipasong Vongphansy 3CS2) week 6.csproj", "{0D341B8F-65EF-48A0-89F2-4B5119A38A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D341B8F-65EF-48A0-89F2-4B5119A38A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D341B8F-65EF-48A0-89F2-4B5119A38A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D341B8F-65EF-48A0-89F2-4B5119A38A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D341B8F-65EF-48A0-89F2-4B5119A38A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692B70DB-217A-47B3-815E-1146A5BCFC4E}
+	EndGlobalSection
+EndGlobal
