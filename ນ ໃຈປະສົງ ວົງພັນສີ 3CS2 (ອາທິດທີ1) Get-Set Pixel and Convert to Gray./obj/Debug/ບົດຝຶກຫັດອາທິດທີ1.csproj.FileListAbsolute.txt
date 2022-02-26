@@ -1,0 +1,30 @@
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe.config
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csprojAssemblyReference.cache
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Form1.resources
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Properties.Resources.resources
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.GenerateResource.cache
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.CoreCompileInputs.cache
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+D:\comvision\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe.config
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.AssemblyReference.cache
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Form1.resources
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Properties.Resources.resources
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.GenerateResource.cache
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.CoreCompileInputs.cache
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+C:\Users\yai17\Downloads\ບົດຝຶກຫັດອາທິດທີ1\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe.config
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\bin\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.AssemblyReference.cache
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Form1.resources
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.Properties.Resources.resources
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.GenerateResource.cache
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.csproj.CoreCompileInputs.cache
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.exe
+D:\comvision\HW Lab\ນ ໃຈປະສົງ ວົງພັນສີ 3CS2 (ອາທິດທີ1) Get-Set Pixel and Convert to Gray\ບົດຝຶກຫັດອາທິດທີ1\obj\Debug\ບົດຝຶກຫັດອາທິດທີ1.pdb
